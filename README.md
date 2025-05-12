@@ -1,4 +1,4 @@
-Heatlhcare sector project:
+MediCore360 Healthcare Analytics Suite:
 Project Overview
 
 This project focuses on analyzing patient data to derive meaningful insights using SQL for data validation, Power BI for visualization, and CSV files for structured data storage. The goal is to ensure data accuracy, detect patterns, and provide interactive dashboards for healthcare analytics.
